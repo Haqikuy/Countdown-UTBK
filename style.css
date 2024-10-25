@@ -1,17 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 /* general styling */
 :root {
     --smaller: .75;
@@ -30,7 +18,7 @@
   
   body {
     align-items: center;
-    background-color: #f80000;
+    background-image: url("BG.jpeg");
     display: flex;
     font-family: -apple-system, 
       BlinkMacSystemFont, 
